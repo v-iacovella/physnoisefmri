@@ -1,11 +1,14 @@
 physnoisefmri
 =============
 
-Physiological Noise and FMRI
+== Physiological Noise and FMRI ==
 
 Vittorio Iacovella
+
 FBK - Fondazione Bruno Kessler
+
 iacovella@fbk.eu
+
 vittorio.iacovella@gmail.com
 
 This is a collection of scripts to:
