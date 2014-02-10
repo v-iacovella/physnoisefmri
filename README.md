@@ -15,3 +15,4 @@ This is a collection of scripts to:
 
 1. Parse raw physiological data coming from Siemens scanners
 2. Produce slice - based regressors 
+3. Parse raw physiological data coming from PHYSIO directory in Human Connectome Project datasets
